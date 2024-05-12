@@ -21,14 +21,14 @@
 
 - :zap: In my free time, I passionately develop pet-projects. For now it's an e-commertial custom-keyboard-orienting website with admin dashboard, paying options and so on.
 
-- :mailbox: Feel free to ping me on <a href="https://www.linkedin.com/in/danil-koval-8344b2266/">LinkedIn</a>
 
 
 <div id="socials">
-  <h4>🔗 Connect with me</h4>
+  <h4>🔗 Connect with me :</h4>
   <a href="https://www.linkedin.com/in/danil-koval-8344b2266/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" weigth="30" height="30" />
   </a>
+
 </div>
 
 

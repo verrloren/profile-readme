@@ -15,9 +15,9 @@
 
 
 
-- :telescope: I’m working on getting my portfolio Big, like Ben.
+- :telescope: Getting my portfolio Big, like Ben.
 
-- :seedling: I'm currently learning the confluention of nextjs fullstack possibilities with typescript.
+- :seedling: Currently learning the confluention of nextjs fullstack possibilities with typescript.
 
 - :zap: In my free time, I passionately develop pet-projects. For now it's an e-commertial custom-keyboard-orienting website with admin dashboard, paying options and so on.
 

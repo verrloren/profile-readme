@@ -5,7 +5,7 @@
 </h3>
 
 <p>
-  I'm a passionate frontend developer who's deeply passionate about creating delightful user experiences in the digital world 🌐.
+  I'm a frontend developer who's deeply passionate about creating delightful user experiences in the digital world 🌐.
   Absolutely love exploring new tech so now getting my hands on fullstack 💻
 </p>
 </div>
@@ -28,7 +28,6 @@
   <a href="https://www.linkedin.com/in/danil-koval-8344b2266/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" weigth="30" height="30" />
   </a>
-
 </div>
 
 
